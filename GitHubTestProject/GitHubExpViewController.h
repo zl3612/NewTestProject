@@ -10,4 +10,6 @@
 
 @interface GitHubExpViewController : UIViewController
 
+@property (strong, nonatomic) id testProperty;
+
 @end
